@@ -1,11 +1,7 @@
 streamlit
-opencv-python
+opencv-python-headless
 numpy
 pandas
 plotly
 fer
-deepface
-tensorflow
-keras
-mtcnn
-retina-face
+Pillow
